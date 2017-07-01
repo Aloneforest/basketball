@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A6FE593-630C-4692-8ACA-F95EF0B18901}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>..\..\..\..\..\..\AppData\Local\Temp\Rar$DRa0.956\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Handle\数据操作.cs" />
+    <Compile Include="Handle\数据查询.cs" />
+    <Compile Include="Handle\登录处理.cs" />
+    <Compile Include="UI\比赛统计.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\比赛统计.Designer.cs">
+      <DependentUpon>比赛统计.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\注册球员.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\注册球员.Designer.cs">
+      <DependentUpon>注册球员.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\球员界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\球员界面.Designer.cs">
+      <DependentUpon>球员界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\球迷界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\球迷界面.Designer.cs">
+      <DependentUpon>球迷界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\球队界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\球队界面.Designer.cs">
+      <DependentUpon>球队界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\登录.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\登录.Designer.cs">
+      <DependentUpon>登录.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\系统管理员界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\系统管理员界面.Designer.cs">
+      <DependentUpon>系统管理员界面.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\比赛统计.resx">
+      <DependentUpon>比赛统计.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\注册球员.resx">
+      <DependentUpon>注册球员.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\球员界面.resx">
+      <DependentUpon>球员界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\球迷界面.resx">
+      <DependentUpon>球迷界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\球队界面.resx">
+      <DependentUpon>球队界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\登录.resx">
+      <DependentUpon>登录.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\系统管理员界面.resx">
+      <DependentUpon>系统管理员界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

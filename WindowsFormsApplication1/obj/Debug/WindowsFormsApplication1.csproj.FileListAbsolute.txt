@@ -1,0 +1,40 @@
+D:\学习资料\篮球数据库管理系统\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\CSkin.dll
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.修改密码.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.新球员注册.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.比赛.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.比赛统计.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.注册球员.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.球员界面.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.球迷界面.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.球队界面.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.登录.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.主页面.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系统管理员界面.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.编辑球队信息.resources
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JFZX\Documents\Tencent Files\874756345\FileRecv\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\JFZX\Documents\Tencent Files\1009574933\FileRecv\篮球数据库管理系统\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JFZX\Documents\Tencent Files\1009574933\FileRecv\篮球数据库管理系统\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JFZX\Documents\Tencent Files\1009574933\FileRecv\篮球数据库管理系统\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.比赛统计.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.注册球员.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.球员界面.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.球迷界面.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.球队界面.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.登录.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.系统管理员界面.resources
+C:\Users\alone森林\Desktop\篮球数据库管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
